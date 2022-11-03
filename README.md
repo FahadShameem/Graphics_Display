@@ -1,5 +1,7 @@
 # Graphics_Display
 
+![](/images/ascii.jpg)
+
 ## Introduction
 
 Program to display a string with graphics.

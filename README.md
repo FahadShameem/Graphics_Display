@@ -1,4 +1,4 @@
-# Graphics_Display
+<h1 align="center">Graphic Display</h1>
 
 ![](/images/ascii.jpg)
 

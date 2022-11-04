@@ -1,27 +1,3 @@
-/* DISPLAY A STRING WITH GRAPHICS                                                
-                       BY FAHAD SHAMEEM
-             
-          # UPDATED WITH NUMBERS !        
-
-          # IF YOU ENJOYED IT !
-             
-              GIVE AN UP VOTE   
-              
-              SUPPORT  ME  #                                          
-IMPORTANT!
-
-This programme takes two inputs
-
-1. A STRING :-(names, words or numbers seperated by spaces).
-
-!!!! FOR BEST RESULT LIMIT WORDS SIZE BY 4-5  CHARACTERS. OR KEEP THE SREEN HORIZONTAL  !!!
-
-
-2.any graphics character like @,#,* etc....
-
-USE @ OR # FOR BEST RESULT !    */
-
-
 #include <iostream>
 #include <cctype>
 #include <cstring>
